@@ -1,0 +1,3 @@
+曾連線的WIFI:netsh wlan show profiles
+WIFI密碼:    Netsh WLAN show profile name=”你要查的SSID” key=clear
+IP訊息:      ipconfig /all
